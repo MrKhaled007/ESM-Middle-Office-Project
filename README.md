@@ -82,6 +82,7 @@ esm-middle-office-dashboard/
 
 ### 1 — Investment Activity & Portfolio Overview
 Answers: *Where is our money invested and what does the portfolio look like?*
+<img width="1344" height="752" alt="Screenshot 2026-03-18 162531" src="https://github.com/user-attachments/assets/cf7aed33-a062-46cd-a921-9f5c361c1d75" />
 
 - KPI cards: Total portfolio value, bond count, average coupon, portfolio DV01
 - Bar chart: Market value by country (sorted descending)
@@ -90,6 +91,7 @@ Answers: *Where is our money invested and what does the portfolio look like?*
 
 ### 2 — Collateral Reconciliation
 Answers: *Are all counterparties adequately collateralized? Where are we at risk?*
+<img width="1341" height="758" alt="Screenshot 2026-03-18 162546" src="https://github.com/user-attachments/assets/0cc56ea2-c8bc-4432-b684-bf7e18bf954e" />
 
 - KPI cards: Total collateral, total exposure, position count, undercollateralized count
 - Bar chart: Coverage ratio % per counterparty with 100% minimum reference line
@@ -99,12 +101,13 @@ Answers: *Are all counterparties adequately collateralized? Where are we at risk
 
 ### 3 — Risk Limit Monitoring
 Answers: *Are we breaching any approved country exposure limits?*
+<img width="1344" height="773" alt="Screenshot 2026-03-18 162555" src="https://github.com/user-attachments/assets/d77b4d44-d8f0-40e8-8ee1-982175861bc2" />
 
 - KPI cards: Total exposure, total limits, average utilisation, breached limits count
 - Bar chart: Limit utilisation % per country with 70% (amber) and 90% (red) reference lines
 - Clustered column chart: Current exposure vs approved limit per country
 - Full limit report table with RAG conditional formatting
-- DV01 bar chart: Interest rate sensitivity per country
+
 
 ---
 
