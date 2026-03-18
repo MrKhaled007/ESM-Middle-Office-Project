@@ -143,7 +143,7 @@ Coverage Ratio = (Collateral Value / Exposure) × 100
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/esm-middle-office-dashboard.git
+git clone https://github.com/YOUR_USERNAME/esm-middle-office-project.git
 cd esm-middle-office-dashboard
 ```
 
