@@ -144,7 +144,7 @@ Coverage Ratio = (Collateral Value / Exposure) × 100
 **1. Clone the repository**
 ```bash
 git clone https://github.com/YOUR_USERNAME/esm-middle-office-project.git
-cd esm-middle-office-dashboard
+cd esm-middle-office-project
 ```
 
 **2. Install dependencies**
