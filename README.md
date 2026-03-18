@@ -195,5 +195,5 @@ Final-year BSc Data Science, Protection & Security — Thomas More University, M
 Internship: Agiliz (Power BI, Python, Machine Learning)
 
 📧 khaledalam893@email.com
-🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-khaled-43a220183/))
+🔗 [LinkedIn]([https://www.linkedin.com/in/mohammed-khaled-43a220183/]
 🐙 [GitHub](https://github.com/MrKhaled007)
