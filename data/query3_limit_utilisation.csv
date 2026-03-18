@@ -1,0 +1,11 @@
+country,current_exposure_MEUR,limit_MEUR,utilisation_pct,rag_status
+Portugal,1725.92,600.0,287.65,RED
+Ireland,1128.78,400.0,282.2,RED
+Austria,1900.04,700.0,271.43,RED
+Finland,1307.0,500.0,261.4,RED
+Netherlands,1541.45,900.0,171.27,RED
+Italy,1694.66,1200.0,141.22,RED
+Spain,1259.94,1000.0,125.99,RED
+Belgium,862.49,800.0,107.81,RED
+France,1542.81,1800.0,85.71,AMBER
+Germany,317.99,2000.0,15.9,GREEN

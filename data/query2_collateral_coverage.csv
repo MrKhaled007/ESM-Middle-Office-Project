@@ -1,0 +1,9 @@
+counterparty,num_positions,total_collateral_MEUR,total_exposure_MEUR,overall_coverage_ratio_pct,undercollateralized_count
+JPMorgan,4,1952.39,2156.0,90.56,3
+Barclays,5,2985.88,3250.0,91.87,4
+Deutsche Bank,6,6740.98,7188.0,93.78,4
+Goldman Sachs,4,543.07,576.0,94.28,3
+Societe Generale,6,3091.98,3126.0,98.91,3
+UniCredit,6,909.63,918.0,99.09,2
+HSBC,6,1983.33,1986.0,99.87,2
+BNP Paribas,3,186.14,182.0,102.27,1

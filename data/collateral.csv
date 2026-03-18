@@ -1,0 +1,41 @@
+collateral_id,counterparty,collateral_type,collateral_value_EUR,exposure_EUR,coverage_ratio,pledge_date,status
+COLL-001,Deutsche Bank,T-Bill,1199637556.19,1198000000.0,100.14,2025-12-31,Sufficient
+COLL-002,BNP Paribas,Cash (USD),58864968.72,56000000.0,105.12,2025-04-29,Sufficient
+COLL-003,UniCredit,Cash (EUR),126137971.14,153000000.0,82.44,2025-05-26,Undercollateralized
+COLL-004,Deutsche Bank,Cash (USD),998900550.08,1198000000.0,83.38,2025-07-04,Undercollateralized
+COLL-005,Barclays,Cash (EUR),574430824.07,650000000.0,88.37,2026-02-14,Undercollateralized
+COLL-006,HSBC,Cash (EUR),335139585.83,331000000.0,101.25,2025-10-11,Sufficient
+COLL-007,Goldman Sachs,Cash (USD),123709771.69,144000000.0,85.91,2026-03-07,Undercollateralized
+COLL-008,Societe Generale,Cash (USD),603361104.97,521000000.0,115.81,2025-07-18,Sufficient
+COLL-009,Barclays,Cash (EUR),547864722.95,650000000.0,84.29,2025-05-24,Undercollateralized
+COLL-010,Societe Generale,Government Bond,499568942.69,521000000.0,95.89,2025-11-15,Undercollateralized
+COLL-011,JPMorgan,Government Bond,470500404.2,539000000.0,87.29,2025-06-14,Undercollateralized
+COLL-012,HSBC,Agency Bond,276610653.12,331000000.0,83.57,2026-02-17,Undercollateralized
+COLL-013,Deutsche Bank,Government Bond,1122730553.36,1198000000.0,93.72,2026-01-05,Undercollateralized
+COLL-014,BNP Paribas,Cash (EUR),80524214.34,76000000.0,105.95,2025-11-23,Sufficient
+COLL-015,Barclays,Cash (EUR),659647700.87,650000000.0,101.48,2025-11-23,Sufficient
+COLL-016,UniCredit,Agency Bond,158295968.6,153000000.0,103.46,2025-12-21,Sufficient
+COLL-017,BNP Paribas,Agency Bond,46748936.68,50000000.0,93.5,2025-06-05,Undercollateralized
+COLL-018,UniCredit,Cash (USD),157331632.25,153000000.0,102.83,2025-07-28,Sufficient
+COLL-019,Deutsche Bank,T-Bill,1072079078.6,1198000000.0,89.49,2025-08-28,Undercollateralized
+COLL-020,Goldman Sachs,Agency Bond,129367165.15,144000000.0,89.84,2025-03-29,Undercollateralized
+COLL-021,Societe Generale,Government Bond,435115780.95,521000000.0,83.52,2025-07-10,Undercollateralized
+COLL-022,Societe Generale,T-Bill,526108173.59,521000000.0,100.98,2026-02-06,Sufficient
+COLL-023,UniCredit,Cash (EUR),129256780.81,153000000.0,84.48,2025-08-06,Undercollateralized
+COLL-024,Societe Generale,Government Bond,597171685.04,521000000.0,114.62,2025-12-10,Sufficient
+COLL-025,UniCredit,Government Bond,166641241.11,153000000.0,108.92,2025-09-01,Sufficient
+COLL-026,HSBC,Cash (EUR),335638863.32,331000000.0,101.4,2025-09-22,Sufficient
+COLL-027,Barclays,Cash (EUR),573320165.64,650000000.0,88.2,2025-11-16,Undercollateralized
+COLL-028,Barclays,Government Bond,630613474.04,650000000.0,97.02,2026-02-22,Undercollateralized
+COLL-029,Deutsche Bank,Government Bond,1212299339.11,1198000000.0,101.19,2025-12-14,Sufficient
+COLL-030,Goldman Sachs,T-Bill,131825119.87,144000000.0,91.55,2025-10-26,Undercollateralized
+COLL-031,HSBC,Cash (USD),328502949.49,331000000.0,99.25,2025-06-28,Undercollateralized
+COLL-032,Deutsche Bank,Cash (EUR),1135335246.74,1198000000.0,94.77,2025-06-26,Undercollateralized
+COLL-033,HSBC,Cash (EUR),337477270.14,331000000.0,101.96,2026-03-01,Sufficient
+COLL-034,UniCredit,Government Bond,171964316.09,153000000.0,112.39,2025-04-29,Sufficient
+COLL-035,JPMorgan,Government Bond,431784469.91,539000000.0,80.11,2026-02-04,Undercollateralized
+COLL-036,HSBC,Government Bond,369963923.18,331000000.0,111.77,2026-01-04,Sufficient
+COLL-037,Goldman Sachs,Cash (EUR),158168132.67,144000000.0,109.84,2025-04-14,Sufficient
+COLL-038,JPMorgan,Government Bond,588775027.65,539000000.0,109.23,2025-12-28,Sufficient
+COLL-039,Societe Generale,Agency Bond,430657822.12,521000000.0,82.66,2025-04-28,Undercollateralized
+COLL-040,JPMorgan,Government Bond,461334924.4,539000000.0,85.59,2025-07-28,Undercollateralized

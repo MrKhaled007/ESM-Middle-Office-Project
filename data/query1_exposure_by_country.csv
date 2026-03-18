@@ -1,0 +1,11 @@
+country,num_bonds,total_face_value_MEUR,total_market_value_MEUR,avg_coupon_pct
+Austria,7,1469.0,1900.04,3.73
+Portugal,6,1633.0,1725.92,2.94
+Italy,5,1185.0,1694.66,3.44
+France,5,1354.0,1542.81,2.61
+Netherlands,7,1696.0,1541.45,2.27
+Finland,5,1551.0,1307.0,3.43
+Spain,5,1293.0,1259.94,2.77
+Ireland,5,1354.0,1128.78,3.05
+Belgium,3,969.0,862.49,3.42
+Germany,2,926.0,317.99,3.08
